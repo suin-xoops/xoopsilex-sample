@@ -1,5 +1,7 @@
 /html/*
 /xoops_trust_path/*
+/docs/*
+/extras/*
 /.idea
 !/html/modules/
 !/html/preload/ComposerAutoload.class.php
