@@ -1,5 +1,13 @@
-/*
+/html/*
+/xoops_trust_path/*
+/.idea
+!/html/modules/
 !/html/preload/ComposerAutoload.class.php
-!/html/modules/silex_*
 !/xoops_trust_path/composer.json
+/html/modules/*.html
+/html/modules/legacy*
+/html/modules/user
+/html/modules/profile
+/html/modules/message
+/html/modules/stdCache
 .DS_Store
