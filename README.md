@@ -1,6 +1,6 @@
 # XoopSilex Sample Modules
 
-Silex module sample collection.
+[XoopSilex](https://github.com/suin/xoopsilex) is an adaptor middle ware between XOOPS Cube and Silex. This repository is a collection of XoopSilex sample modules
 
 ## Requirements
 
