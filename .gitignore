@@ -1,1 +1,5 @@
 /*
+!/html/preload/ComposerAutoload.class.php
+!/html/modules/silex_*
+!/xoops_trust_path/composer.json
+.DS_Store
