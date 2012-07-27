@@ -1,10 +1,8 @@
 <?php
 
-use XoopSilex\Application;
-
 require_once '../../mainfile.php';
 
-$app = new Application();
+$app = new XoopSilex\Application();
 
 $app->get('/', function() {
 	return "Hello World!";
